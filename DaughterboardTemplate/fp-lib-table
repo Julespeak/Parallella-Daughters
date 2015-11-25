@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name adapteva-kicad)(type KiCad)(uri /home/jules/Dropbox/Circuits/Parallella-Daughters/Libraries/adapteva-kicad.pretty)(options "")(descr ""))
+  (lib (name Adapteva)(type KiCad)(uri /mnt/windowsC/Adapteva/Parallella/parallella-hw/boards/libraries/kicad/adapteva-kicad.pretty)(options "")(descr ""))
+)
